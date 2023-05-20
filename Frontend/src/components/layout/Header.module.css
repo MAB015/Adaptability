@@ -1,0 +1,68 @@
+.logo{
+    width: 30px;
+}
+.headersection {
+	background: #F1F3FF;
+	clear: both;
+	overflow: hidden;
+	padding: 18px 0;
+	border-bottom: #73158f;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+
+}
+
+.sitelogo {
+	display: inline-block;
+	padding-top: 6px;
+	width: 10px;
+}
+
+.userpanel {
+	float: right;
+	font-weight: 500;
+	background: #8b93d5;
+	padding: 8px 28px;
+	border-radius: 30px;
+}
+
+.userpanel a {
+	font-size: 14px;
+	color: #000000;
+}
+
+.mainmenu {
+	float: right;
+	margin-right: 170px;
+}
+
+.mainmenu ul {
+	list-style: none;
+}
+
+.mainmenu ul li {
+	display: inline;
+}
+
+.mainmenu ul li a {
+	display: inline-block;
+	font-size: 16px;
+	color: #000000;
+	margin-left: 35px;
+	font-weight: 500;
+	padding: 10px 5px;
+}
+
+.mainmenu ul li a:hover {
+	color: #ffb320;
+}
+
+.headerbtn {
+	float: right;
+	margin-right: 0;
+}
+
+.navswitch {
+	display: none;
+}
